@@ -226,7 +226,7 @@ let allEncapsulated = [
     
     {
 
-        encapsulated: "Canela de Velho Concentrado - Dores",
+        encapsulated: "Canela de Velho Concentrado",
         codeNumber: 146
 
     }, 
