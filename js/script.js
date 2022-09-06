@@ -362,7 +362,14 @@ let allEncapsulated = [
         encapsulated: "Colageno Black",
         codeNumber: 174
 
-    }, 
+    },
+    
+    {
+
+        encapsulated: "Colageno Gold",
+        codeNumber: 250
+
+    },
     
     {
 
@@ -858,6 +865,13 @@ let allEncapsulated = [
 
         encapsulated: "Levedo de Cerveja",
         codeNumber: 114
+
+    }, 
+    
+    {
+
+        encapsulated: "Levedo de Cerveja Dourada",
+        codeNumber: 249
 
     }, 
     
