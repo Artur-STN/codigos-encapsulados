@@ -15,16 +15,10 @@ section.search input#inputSearchCode {
     
     border: 1px solid;
 
-    width: 250px;
+    width: 500px;
 
     padding: 0.5rem 1rem;
 
     transition: 0.2s;
-
-}
-
-section.search input#inputSearchCode:focus {
-
-    width: 500px;
 
 }

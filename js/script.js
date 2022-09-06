@@ -1739,4 +1739,3 @@ function insertEncapsulated() {
     }
 
 }
-
