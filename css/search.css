@@ -1,5 +1,9 @@
 section.search {
 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
     margin: 5rem 0 2rem 0;
 
 }
@@ -20,5 +24,31 @@ section.search input#inputSearchCode {
     padding: 0.5rem 1rem;
 
     transition: 0.2s;
+
+}
+
+section.search button {
+
+    background: white;
+    color: black;
+    
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3rem;
+    
+    width: 100px;
+    height: 49px;
+
+    margin-left: 3rem;
+
+    cursor: pointer;
+
+    transition: 0.2s;
+
+}
+
+section.search button:hover {
+
+    background: #000;
+    color: white;
 
 }
